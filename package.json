@@ -2,6 +2,7 @@
   "name": "react1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://localhost:8080/simpleapp",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.3",
@@ -9,6 +10,7 @@
     "bootstrap": "^4.4.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0"
   },
   "scripts": {
